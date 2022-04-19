@@ -1,0 +1,82 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table
+{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+.data
+{
+    border: 0px;
+    width: 100%;
+    height: 25px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    background-color: darkkhaki;
+}
+
+.numero
+{
+    background-color: #303030;
+    color: white;
+    width: 35px;
+    height: 25px;
+}
+
+.operador
+{
+    width: 35px;
+    height: 25px;
+    color: white;
+}
+
+#mas
+{
+    background-color: #eb6370;
+}
+#menos
+{
+    background-color: #eb6370;
+}
+#por
+{
+    background-color: #eb6370;
+}
+#entre
+{
+    background-color: #eb6370;
+}
+#igual
+{
+    background-color: #dca84c;
+}
+#punto
+{
+    background-color: #303030;
+}
+#delete
+{
+    background-color: #303030;
+}
+#mrc
+{
+    background-color: #9da094;
+}
+#mmas
+{
+    background-color: #9da094;
+}
+#m-
+{
+    background-color: #9da094;
+}
